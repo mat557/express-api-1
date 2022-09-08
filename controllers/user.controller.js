@@ -56,10 +56,3 @@ module.exports.updateDocument = (req,res)=>{
     res.status(200).send(user);
 }
 
-
-module.exports.getQueryusers = (req,res) =>{
-    const amount = req.query.limit;
-    console.log(amount)
-    const result =  users.slice(0,amount);
-    res.send(result);
-}
