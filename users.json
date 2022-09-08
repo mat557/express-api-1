@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1 ,
+        "name" : "Tanzim",
+        "gender" : "male",
+        "contact" : 98097587,
+        "address" : "bangla bazar",
+        "image" : "bangla bazar"
+    },
+    {
+        "id" : 2 ,
+        "name" : "Tanim",
+        "gender" : "male",
+        "contact" : 98097587,
+        "address" : "bangla bazar",
+        "image" : "bangla bazar"
+    },
+    {
+        "id" : 3 ,
+        "name" : "mahfuz",
+        "gender" : "male",
+        "contact" : 98097587,
+        "address" : "bangla bazar",
+        "image" : "bangla bazar"
+    }
+]
